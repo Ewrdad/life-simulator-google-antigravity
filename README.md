@@ -1,6 +1,8 @@
 # Life Simulator
 
-A complex biological and social simulation running in the browser.
+A complex biological and social simulation running in the browser. Developed 99% by Google Antigravity* and Gemini 3 Pro (mainly only config and prompting from me). A play enviroment for me to experiment with complete hands off coding/project development. 
+
+*Google Antigravity does support other models I chose to only use Gemini 3 Pro
 
 **Live Demo:** [https://sim.ewrdad.uk/](https://sim.ewrdad.uk/)
 
